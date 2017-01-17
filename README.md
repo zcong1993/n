@@ -1,4 +1,4 @@
-# `n` – local taobao mirror url of `n` forked from [tj/n](https://github.com/tj/n)
+# `n` – local taobao mirror for under GFW users of `n` forked from [tj/n](https://github.com/tj/n)
 
 > change the default `NODE_MIRROR` to `https://npm.taobao.org/mirrors/node/`
 
