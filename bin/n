@@ -32,7 +32,7 @@ abort() {
 
 BINS=("node"
       "io")
-MIRROR=(${NODE_MIRROR-https://nodejs.org/dist/}
+MIRROR=(${NODE_MIRROR-https://npm.taobao.org/mirrors/node}
         ${IO_MIRROR-https://iojs.org/dist/})
 BIN_NAME=("node"
           "iojs")
