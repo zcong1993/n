@@ -7,7 +7,7 @@
 ## Installation
 
 ```bash
-$ git clone git@github.com:zcong1993/n.git
+$ git clone https://github.com/zcong1993/n.git
 $ cd n
 $ sudo make install
 # uninstall
